@@ -1,0 +1,38 @@
+doc_ID,doc_name,score
+15,Boosting the Performance of Web Search Engines: Caching and Prefetching Query Results by Exploiting Historical Usage Data,0.5901011638246404
+33,On caching search engine query results,0.5256769685256182
+22,Performance of Compressed Inverted List Caching in Search Engines,0.49498903111722176
+3,Admission Policies for Caches of Search Engine Results,0.47987522270402394
+32,Predictive caching and prefetching of query results in search engines,0.44427812656221466
+2,The Impact of Caching on Search Engines,0.3724210387059129
+17,Three-level Caching for Efficient Query Processing in Large Web Search Engines,0.35805105259915715
+21,Dynamic Index Pruning for Effective Caching,0.3466079360618924
+13,Improving Web Search Efficiency via a Locality Based Static Pruning Method,0.3045105466148855
+26,A three-level search-engine index based in query log distribution,0.2538947867701585
+10,Static Index Pruning for Information Retrieval Systems,0.22742838564024076
+18,Pruning Policies for Two-Tiered Inverted Index with Correctness Guarantee,0.19695875950613248
+11,A Reference Collection for Web Spam,0.19370738371113103
+9,A Document-centric Approach to Static Index Pruning in Text Retrieval Systems,0.1856944992811689
+16,Optimized Query Execution in Large Search Engines with Global Page Ordering,0.17562888956001346
+5,A Scalable Fully Distributed Web Crawler,0.17325715108868978
+4,Static Pruning of Terms in Inverted Files,0.14413059417515042
+1,Pruned Query Evaluation Using Pre-computed Impacts,0.12181258490367756
+37,Adding compression to block addressing inverted indexes,0.0958557562129864
+28,"Index compression is good, especially for random access",0.0958557562129864
+23,Index compression using fixed binary codewords,0.0958557562129864
+35,Outperforming LRU with an adaptive replacement cache algorithm,0.08897992301210395
+34,"A self-tuning, low overhead replacement cache",0.08897992301210395
+29,Cost-aware WWW proxy caching algorithms,0.08897992301210395
+36,Self-indexing inverted files for fast text retrieval,0.08874518578088043
+24,Improved word-aligned binary compression for text indexing,0.08874518578088043
+30,Super-scalar database compression between RAM and CPU-cache,0.08237940120082
+27,Compressed perfect embedded skip lists for quick inverted-index lookups,0.07826589721014501
+31,Interaction of query evaluation and buffer management for information retrieval,0.0
+25,Modern Information Retrieval,0.0
+20,Information Re-retrieval: Repeat Queries in Yahoo's Logs,0.0
+19,Efficient Document Retrieval in Main Memory,0.0
+14,Optimal Aggregation Algorithms for Middleware,0.0
+12,Relevance Weighting for Query Independent Evidence,0.0
+8,Efficiency vs. Effectiveness in Terabyte-scale Information Retrieval,0.0
+7,Lessons from Giant-scale Services,0.0
+6,The WebGraph framework I: Compression techniques,0.0
