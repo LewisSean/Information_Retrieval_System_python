@@ -1,0 +1,37 @@
+Pruned Query Evaluation Using Pre-computed Impacts
+The Impact of Caching on Search Engines
+Admission Policies for Caches of Search Engine Results
+Static Pruning of Terms in Inverted Files
+A Scalable Fully Distributed Web Crawler
+The WebGraph framework I: Compression techniques
+Lessons from Giant-scale Services
+Efficiency vs. Effectiveness in Terabyte-scale Information Retrieval
+A Document-centric Approach to Static Index Pruning in Text Retrieval Systems
+Static Index Pruning for Information Retrieval Systems
+A Reference Collection for Web Spam
+Relevance Weighting for Query Independent Evidence
+Improving Web Search Efficiency via a Locality Based Static Pruning Method
+Optimal Aggregation Algorithms for Middleware
+Boosting the Performance of Web Search Engines: Caching and Prefetching Query Results by Exploiting Historical Usage Data
+Optimized Query Execution in Large Search Engines with Global Page Ordering
+Three-level Caching for Efficient Query Processing in Large Web Search Engines
+Pruning Policies for Two-Tiered Inverted Index with Correctness Guarantee
+Efficient Document Retrieval in Main Memory
+Information Re-retrieval: Repeat Queries in Yahoo's Logs
+Dynamic Index Pruning for Effective Caching
+Performance of Compressed Inverted List Caching in Search Engines
+Index compression using fixed binary codewords
+Improved word-aligned binary compression for text indexing
+Modern Information Retrieval
+A three-level search-engine index based in query log distribution
+Compressed perfect embedded skip lists for quick inverted-index lookups
+Index compression is good, especially for random access
+Cost-aware WWW proxy caching algorithms
+Super-scalar database compression between RAM and CPU-cache
+Interaction of query evaluation and buffer management for information retrieval
+Predictive caching and prefetching of query results in search engines
+On caching search engine query results
+A self-tuning, low overhead replacement cache
+Outperforming LRU with an adaptive replacement cache algorithm
+Self-indexing inverted files for fast text retrieval
+Adding compression to block addressing inverted indexes

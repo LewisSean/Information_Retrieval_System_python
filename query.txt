@@ -1,0 +1,4 @@
+ResIn: A Combination of Results Caching and Index Pruning for High-performance Web Search Engines
+index pruning
+caching and index pruning
+search-engine compressed inverted index
