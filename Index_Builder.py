@@ -2,7 +2,6 @@ import re
 from nltk.corpus import stopwords
 from nltk.stem import PorterStemmer
 from nltk.tokenize import word_tokenize
-from nltk.stem import WordNetLemmatizer
 
 
 def tokenize(vector, flag=1):  # flag = 1则去掉停止词
