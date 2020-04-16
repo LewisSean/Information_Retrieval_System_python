@@ -1,0 +1,335 @@
+==========Doc:01==========
+prune      	0.142857
+queri      	0.142857
+evalu      	0.142857
+use        	0.142857
+pre        	0.142857
+comput     	0.142857
+impact     	0.142857
+==========Doc:02==========
+the        	0.142857
+impact     	0.142857
+of         	0.142857
+cach       	0.142857
+on         	0.142857
+search     	0.142857
+engin      	0.142857
+==========Doc:03==========
+admiss     	0.125
+polici     	0.125
+for        	0.125
+cach       	0.125
+of         	0.125
+search     	0.125
+engin      	0.125
+result     	0.125
+==========Doc:04==========
+static     	0.142857
+prune      	0.142857
+of         	0.142857
+term       	0.142857
+in         	0.142857
+invert     	0.142857
+file       	0.142857
+==========Doc:05==========
+a          	0.166667
+scalabl    	0.166667
+fulli      	0.166667
+distribut  	0.166667
+web        	0.166667
+crawler    	0.166667
+==========Doc:06==========
+the        	0.166667
+webgraph   	0.166667
+framework  	0.166667
+i          	0.166667
+compress   	0.166667
+techniqu   	0.166667
+==========Doc:07==========
+lesson     	0.2
+from       	0.2
+giant      	0.2
+scale      	0.2
+servic     	0.2
+==========Doc:08==========
+effici     	0.125
+vs         	0.125
+effect     	0.125
+in         	0.125
+terabyt    	0.125
+scale      	0.125
+inform     	0.125
+retriev    	0.125
+==========Doc:09==========
+a          	0.083333
+document   	0.083333
+centric    	0.083333
+approach   	0.083333
+to         	0.083333
+static     	0.083333
+index      	0.083333
+prune      	0.083333
+in         	0.083333
+text       	0.083333
+retriev    	0.083333
+system     	0.083333
+==========Doc:10==========
+static     	0.142857
+index      	0.142857
+prune      	0.142857
+for        	0.142857
+inform     	0.142857
+retriev    	0.142857
+system     	0.142857
+==========Doc:11==========
+a          	0.166667
+refer      	0.166667
+collect    	0.166667
+for        	0.166667
+web        	0.166667
+spam       	0.166667
+==========Doc:12==========
+relev      	0.166667
+weight     	0.166667
+for        	0.166667
+queri      	0.166667
+independ   	0.166667
+evid       	0.166667
+==========Doc:13==========
+improv     	0.090909
+web        	0.090909
+search     	0.090909
+effici     	0.090909
+via        	0.090909
+a          	0.090909
+local      	0.090909
+base       	0.090909
+static     	0.090909
+prune      	0.090909
+method     	0.090909
+==========Doc:14==========
+optim      	0.2
+aggreg     	0.2
+algorithm  	0.2
+for        	0.2
+middlewar  	0.2
+==========Doc:15==========
+boost      	0.058824
+the        	0.058824
+perform    	0.058824
+of         	0.058824
+web        	0.058824
+search     	0.058824
+engin      	0.058824
+cach       	0.058824
+and        	0.058824
+prefetch   	0.058824
+queri      	0.058824
+result     	0.058824
+by         	0.058824
+exploit    	0.058824
+histor     	0.058824
+usag       	0.058824
+data       	0.058824
+==========Doc:16==========
+optim      	0.090909
+queri      	0.090909
+execut     	0.090909
+in         	0.090909
+larg       	0.090909
+search     	0.090909
+engin      	0.090909
+with       	0.090909
+global     	0.090909
+page       	0.090909
+order      	0.090909
+==========Doc:17==========
+three      	0.083333
+level      	0.083333
+cach       	0.083333
+for        	0.083333
+effici     	0.083333
+queri      	0.083333
+process    	0.083333
+in         	0.083333
+larg       	0.083333
+web        	0.083333
+search     	0.083333
+engin      	0.083333
+==========Doc:18==========
+prune      	0.1
+polici     	0.1
+for        	0.1
+two        	0.1
+tier       	0.1
+invert     	0.1
+index      	0.1
+with       	0.1
+correct    	0.1
+guarante   	0.1
+==========Doc:19==========
+effici     	0.166667
+document   	0.166667
+retriev    	0.166667
+in         	0.166667
+main       	0.166667
+memori     	0.166667
+==========Doc:20==========
+inform     	0.111111
+re         	0.111111
+retriev    	0.111111
+repeat     	0.111111
+queri      	0.111111
+in         	0.111111
+yahoo      	0.111111
+s          	0.111111
+log        	0.111111
+==========Doc:21==========
+dynam      	0.166667
+index      	0.166667
+prune      	0.166667
+for        	0.166667
+effect     	0.166667
+cach       	0.166667
+==========Doc:22==========
+perform    	0.111111
+of         	0.111111
+compress   	0.111111
+invert     	0.111111
+list       	0.111111
+cach       	0.111111
+in         	0.111111
+search     	0.111111
+engin      	0.111111
+==========Doc:23==========
+index      	0.166667
+compress   	0.166667
+use        	0.166667
+fix        	0.166667
+binari     	0.166667
+codeword   	0.166667
+==========Doc:24==========
+improv     	0.125
+word       	0.125
+align      	0.125
+binari     	0.125
+compress   	0.125
+for        	0.125
+text       	0.125
+index      	0.125
+==========Doc:25==========
+modern     	0.333333
+inform     	0.333333
+retriev    	0.333333
+==========Doc:26==========
+a          	0.090909
+three      	0.090909
+level      	0.090909
+search     	0.090909
+engin      	0.090909
+index      	0.090909
+base       	0.090909
+in         	0.090909
+queri      	0.090909
+log        	0.090909
+distribut  	0.090909
+==========Doc:27==========
+compress   	0.1
+perfect    	0.1
+embed      	0.1
+skip       	0.1
+list       	0.1
+for        	0.1
+quick      	0.1
+invert     	0.1
+index      	0.1
+lookup     	0.1
+==========Doc:28==========
+index      	0.125
+compress   	0.125
+is         	0.125
+good       	0.125
+especi     	0.125
+for        	0.125
+random     	0.125
+access     	0.125
+==========Doc:29==========
+cost       	0.166667
+awar       	0.166667
+www        	0.166667
+proxi      	0.166667
+cach       	0.166667
+algorithm  	0.166667
+==========Doc:30==========
+super      	0.111111
+scalar     	0.111111
+databas    	0.111111
+compress   	0.111111
+between    	0.111111
+ram        	0.111111
+and        	0.111111
+cpu        	0.111111
+cach       	0.111111
+==========Doc:31==========
+interact   	0.1
+of         	0.1
+queri      	0.1
+evalu      	0.1
+and        	0.1
+buffer     	0.1
+manag      	0.1
+for        	0.1
+inform     	0.1
+retriev    	0.1
+==========Doc:32==========
+predict    	0.1
+cach       	0.1
+and        	0.1
+prefetch   	0.1
+of         	0.1
+queri      	0.1
+result     	0.1
+in         	0.1
+search     	0.1
+engin      	0.1
+==========Doc:33==========
+on         	0.166667
+cach       	0.166667
+search     	0.166667
+engin      	0.166667
+queri      	0.166667
+result     	0.166667
+==========Doc:34==========
+a          	0.142857
+self       	0.142857
+tune       	0.142857
+low        	0.142857
+overhead   	0.142857
+replac     	0.142857
+cach       	0.142857
+==========Doc:35==========
+outperform 	0.125
+lru        	0.125
+with       	0.125
+an         	0.125
+adapt      	0.125
+replac     	0.125
+cach       	0.125
+algorithm  	0.125
+==========Doc:36==========
+self       	0.125
+index      	0.125
+invert     	0.125
+file       	0.125
+for        	0.125
+fast       	0.125
+text       	0.125
+retriev    	0.125
+==========Doc:37==========
+ad         	0.142857
+compress   	0.142857
+to         	0.142857
+block      	0.142857
+address    	0.142857
+invert     	0.142857
+index      	0.142857

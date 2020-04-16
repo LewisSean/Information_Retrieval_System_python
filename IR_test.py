@@ -3,9 +3,17 @@ from Relevence_Ranking import calculate_relevence
 from Language_Model import cal_RSV, language_model,cal_corp_model,cal_doc_model,cal_LM
 import csv
 vector, query = load_data()
+with open('ranked_docs.txt','w') as f:
+    i=1
+    for str1 in vector:
+        f.writelines("D{doc_id:0>2d}: ".format(doc_id=i)+str1+'\n')
+        i += 1
 print("\n\n================================Vector Model=========================================\n\n")
 res_stem = tokenize(vector)
 index_invert, vec_doc = build_index(res_stem)
+with open('docs_vec.txt','w') as f:
+    for i in vec_doc.keys():
+        f.writelines("D{doc_id:0>2d}: ".format(doc_id=i)+str(vec_doc[i]) +'\n')
 res_stem = tokenize(query)
 _, vec_query = build_index(res_stem)
 print(vec_query[1])
@@ -13,7 +21,7 @@ print(vec_doc[1])
 
 rank_VM = {}
 for i in range(len(vec_doc)):
-    score = calculate_relevence(index_invert, vec_doc[i+1], vec_query[1], len(vec_doc))
+    score,_,_ = calculate_relevence(index_invert, vec_doc[i+1], vec_query[1], len(vec_doc))
     if score in rank_VM:
         rank_VM[score].append(i+1)
     else:

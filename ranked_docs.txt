@@ -1,0 +1,37 @@
+D01: Pruned Query Evaluation Using Pre-computed Impacts
+D02: The Impact of Caching on Search Engines
+D03: Admission Policies for Caches of Search Engine Results
+D04: Static Pruning of Terms in Inverted Files
+D05: A Scalable Fully Distributed Web Crawler
+D06: The WebGraph framework I: Compression techniques
+D07: Lessons from Giant-scale Services
+D08: Efficiency vs. Effectiveness in Terabyte-scale Information Retrieval
+D09: A Document-centric Approach to Static Index Pruning in Text Retrieval Systems
+D10: Static Index Pruning for Information Retrieval Systems
+D11: A Reference Collection for Web Spam
+D12: Relevance Weighting for Query Independent Evidence
+D13: Improving Web Search Efficiency via a Locality Based Static Pruning Method
+D14: Optimal Aggregation Algorithms for Middleware
+D15: Boosting the Performance of Web Search Engines: Caching and Prefetching Query Results by Exploiting Historical Usage Data
+D16: Optimized Query Execution in Large Search Engines with Global Page Ordering
+D17: Three-level Caching for Efficient Query Processing in Large Web Search Engines
+D18: Pruning Policies for Two-Tiered Inverted Index with Correctness Guarantee
+D19: Efficient Document Retrieval in Main Memory
+D20: Information Re-retrieval: Repeat Queries in Yahoo's Logs
+D21: Dynamic Index Pruning for Effective Caching
+D22: Performance of Compressed Inverted List Caching in Search Engines
+D23: Index compression using fixed binary codewords
+D24: Improved word-aligned binary compression for text indexing
+D25: Modern Information Retrieval
+D26: A three-level search-engine index based in query log distribution
+D27: Compressed perfect embedded skip lists for quick inverted-index lookups
+D28: Index compression is good, especially for random access
+D29: Cost-aware WWW proxy caching algorithms
+D30: Super-scalar database compression between RAM and CPU-cache
+D31: Interaction of query evaluation and buffer management for information retrieval
+D32: Predictive caching and prefetching of query results in search engines
+D33: On caching search engine query results
+D34: A self-tuning, low overhead replacement cache
+D35: Outperforming LRU with an adaptive replacement cache algorithm
+D36: Self-indexing inverted files for fast text retrieval
+D37: Adding compression to block addressing inverted indexes

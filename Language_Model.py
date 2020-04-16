@@ -70,6 +70,11 @@ for i in range(len(models_doc)):
     print(vec_doc[i+1])
     print(models_doc[i+1])
 
+with open('language_model_1_RSV.txt','w') as f:
+    for i in range(len(models_doc)):
+        for k in models_doc[i+1]:
+            models_doc[i + 1][k] = round(models_doc[i + 1][k], 6)
+        f.writelines('D{doc_id:0>2d}'.format(doc_id=i+1)+str(models_doc[i+1])+'\n')
 res_stem = tokenize(query, 0)
 _, vec_query = build_index(res_stem)
 
@@ -82,3 +87,15 @@ print(model_corp)
 models_doc_2 = cal_doc_model(vec_doc)
 print(vec_doc)
 print(models_doc_2)
+
+with open('language_model_Corpus.txt','w') as f:
+    for (k,v) in model_corp.items():
+        v = round(v,6)
+        f.writelines('{k:<{len}} \t{v}'.format(k=k,v=v,len=10)+'\n')
+
+with open('language_model_Docs.txt','w') as f:
+    for (i,doc) in models_doc_2.items():
+        f.writelines("==========Doc:{doc_id:0>2d}==========\n".format(doc_id=i))
+        for (k,v) in doc.items():
+            v = round(v,6)
+            f.writelines('{k:<{len}} \t{v}'.format(k=k,v=v,len=10)+'\n')

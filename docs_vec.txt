@@ -1,0 +1,37 @@
+D01: {'prune': 1, 'queri': 1, 'evalu': 1, 'use': 1, 'pre': 1, 'comput': 1, 'impact': 1}
+D02: {'impact': 1, 'cach': 1, 'search': 1, 'engin': 1}
+D03: {'admiss': 1, 'polici': 1, 'cach': 1, 'search': 1, 'engin': 1, 'result': 1}
+D04: {'static': 1, 'prune': 1, 'term': 1, 'invert': 1, 'file': 1}
+D05: {'scalabl': 1, 'fulli': 1, 'distribut': 1, 'web': 1, 'crawler': 1}
+D06: {'webgraph': 1, 'framework': 1, 'compress': 1, 'techniqu': 1}
+D07: {'lesson': 1, 'giant': 1, 'scale': 1, 'servic': 1}
+D08: {'effici': 1, 'vs': 1, 'effect': 1, 'terabyt': 1, 'scale': 1, 'inform': 1, 'retriev': 1}
+D09: {'document': 1, 'centric': 1, 'approach': 1, 'static': 1, 'index': 1, 'prune': 1, 'text': 1, 'retriev': 1, 'system': 1}
+D10: {'static': 1, 'index': 1, 'prune': 1, 'inform': 1, 'retriev': 1, 'system': 1}
+D11: {'refer': 1, 'collect': 1, 'web': 1, 'spam': 1}
+D12: {'relev': 1, 'weight': 1, 'queri': 1, 'independ': 1, 'evid': 1}
+D13: {'improv': 1, 'web': 1, 'search': 1, 'effici': 1, 'via': 1, 'local': 1, 'base': 1, 'static': 1, 'prune': 1, 'method': 1}
+D14: {'optim': 1, 'aggreg': 1, 'algorithm': 1, 'middlewar': 1}
+D15: {'boost': 1, 'perform': 1, 'web': 1, 'search': 1, 'engin': 1, 'cach': 1, 'prefetch': 1, 'queri': 1, 'result': 1, 'exploit': 1, 'histor': 1, 'usag': 1, 'data': 1}
+D16: {'optim': 1, 'queri': 1, 'execut': 1, 'larg': 1, 'search': 1, 'engin': 1, 'global': 1, 'page': 1, 'order': 1}
+D17: {'three': 1, 'level': 1, 'cach': 1, 'effici': 1, 'queri': 1, 'process': 1, 'larg': 1, 'web': 1, 'search': 1, 'engin': 1}
+D18: {'prune': 1, 'polici': 1, 'two': 1, 'tier': 1, 'invert': 1, 'index': 1, 'correct': 1, 'guarante': 1}
+D19: {'effici': 1, 'document': 1, 'retriev': 1, 'main': 1, 'memori': 1}
+D20: {'inform': 1, 'retriev': 1, 'repeat': 1, 'queri': 1, 'yahoo': 1, 'log': 1}
+D21: {'dynam': 1, 'index': 1, 'prune': 1, 'effect': 1, 'cach': 1}
+D22: {'perform': 1, 'compress': 1, 'invert': 1, 'list': 1, 'cach': 1, 'search': 1, 'engin': 1}
+D23: {'index': 1, 'compress': 1, 'use': 1, 'fix': 1, 'binari': 1, 'codeword': 1}
+D24: {'improv': 1, 'word': 1, 'align': 1, 'binari': 1, 'compress': 1, 'text': 1, 'index': 1}
+D25: {'modern': 1, 'inform': 1, 'retriev': 1}
+D26: {'three': 1, 'level': 1, 'search': 1, 'engin': 1, 'index': 1, 'base': 1, 'queri': 1, 'log': 1, 'distribut': 1}
+D27: {'compress': 1, 'perfect': 1, 'embed': 1, 'skip': 1, 'list': 1, 'quick': 1, 'invert': 1, 'index': 1, 'lookup': 1}
+D28: {'index': 1, 'compress': 1, 'good': 1, 'especi': 1, 'random': 1, 'access': 1}
+D29: {'cost': 1, 'awar': 1, 'www': 1, 'proxi': 1, 'cach': 1, 'algorithm': 1}
+D30: {'super': 1, 'scalar': 1, 'databas': 1, 'compress': 1, 'ram': 1, 'cpu': 1, 'cach': 1}
+D31: {'interact': 1, 'queri': 1, 'evalu': 1, 'buffer': 1, 'manag': 1, 'inform': 1, 'retriev': 1}
+D32: {'predict': 1, 'cach': 1, 'prefetch': 1, 'queri': 1, 'result': 1, 'search': 1, 'engin': 1}
+D33: {'cach': 1, 'search': 1, 'engin': 1, 'queri': 1, 'result': 1}
+D34: {'self': 1, 'tune': 1, 'low': 1, 'overhead': 1, 'replac': 1, 'cach': 1}
+D35: {'outperform': 1, 'lru': 1, 'adapt': 1, 'replac': 1, 'cach': 1, 'algorithm': 1}
+D36: {'self': 1, 'index': 1, 'invert': 1, 'file': 1, 'fast': 1, 'text': 1, 'retriev': 1}
+D37: {'ad': 1, 'compress': 1, 'block': 1, 'address': 1, 'invert': 1, 'index': 1}
